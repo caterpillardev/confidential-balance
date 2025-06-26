@@ -7,8 +7,8 @@ This repository contains the ongoing conversion of a raw Solana program into a m
 
 ## Contacts
 
--[telegram](https://t.me/caterpillardev)
--[twitter](https://x.com/caterpillardev)
+- [telegram](https://t.me/caterpillardev)
+- [twitter](https://x.com/caterpillardev)
 
 ## Key Features
 
